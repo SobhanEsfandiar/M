@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Website",
+    "title": "About me",
     "section": "",
-    "text": "!Mohammadsobhan Esfandiar{.circle .float-right width=150}\nWelcome to my personal website! I am Mohammadsobhan Esfandiar, a researcher with a passion for Human Robot Interaction, AR/VR in Robotics, Physical Interaction Design, and Social Psychology in HRI. I am currently pursuing an MSc in Research Methods of Psychological Science and a PhD in Social Touch in Physical Human Robot Interaction at the University of Glasgow."
+    "text": "Welcome to my personal website! I am Mohammadsobhan Esfandiar, a researcher with a passion for Human Robot Interaction, AR/VR in Robotics, Physical Interaction Design, and Social Psychology in HRI. I am currently pursuing an MSc in Research Methods of Psychological Science and a PhD in Social Touch in Physical Human Robot Interaction at the University of Glasgow."
   },
   {
     "objectID": "about.html",
@@ -60,34 +60,34 @@
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "If you would like to get in touch, please feel free to reach out through any of the following methods:\n\n\nYou can email me at: your.email@example.com\n\n\n\n\nLinkedIn: Your LinkedIn Profile\nGitHub: Your GitHub Profile\n\n\n\n\nUniversity of Glasgow\n[Your Department or Lab]\n[Building Name or Number]\n[Street Address]\nGlasgow, G12 8QQ\nUnited Kingdom\n\n\n\nYou can reach me by phone at: +44"
+    "text": "If you would like to get in touch, please feel free to reach out through any of the following methods:\n\n\nYou can email me at: M.sobhanesfandiar@gmail.com\n\n\n\n\nLinkedIn: https://www.linkedin.com/in/m-sobhan-esfandiar/\n\n\n\n\nUniversity of Glasgow\nSchool of psychology and neuroscience\nR506, Level 5 , 58 Hillhead Street, Glasgow G12 8QB United Kingdom\n\n\n\nYou can reach me by phone at: +44 7425210178"
   },
   {
     "objectID": "contact.html#email",
     "href": "contact.html#email",
     "title": "Contact",
     "section": "",
-    "text": "You can email me at: your.email@example.com"
+    "text": "You can email me at: M.sobhanesfandiar@gmail.com"
   },
   {
     "objectID": "contact.html#social-media",
     "href": "contact.html#social-media",
     "title": "Contact",
     "section": "",
-    "text": "LinkedIn: Your LinkedIn Profile\nGitHub: Your GitHub Profile"
+    "text": "LinkedIn: https://www.linkedin.com/in/m-sobhan-esfandiar/"
   },
   {
     "objectID": "contact.html#address",
     "href": "contact.html#address",
     "title": "Contact",
     "section": "",
-    "text": "University of Glasgow\n[Your Department or Lab]\n[Building Name or Number]\n[Street Address]\nGlasgow, G12 8QQ\nUnited Kingdom"
+    "text": "University of Glasgow\nSchool of psychology and neuroscience\nR506, Level 5 , 58 Hillhead Street, Glasgow G12 8QB United Kingdom"
   },
   {
     "objectID": "contact.html#phone",
     "href": "contact.html#phone",
     "title": "Contact",
     "section": "",
-    "text": "You can reach me by phone at: +44"
+    "text": "You can reach me by phone at: +44 7425210178"
   }
 ]
