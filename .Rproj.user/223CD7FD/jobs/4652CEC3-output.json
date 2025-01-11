@@ -1,7 +1,0 @@
-[1,"==> quarto preview Projects.qmd --to html --no-watch-inputs --no-browse\n\n"]
-[1,"pandoc \n  to: html\n  output-file: Projects.html\n  standalone: true\n  title-prefix: My Website\n  section-divs: true\n  html-math-method: mathjax\n  wrap: none\n  default-image-extension: png\n  \nmetadata\n  document-css: false\n  link-citations: true\n  date-format: long\n  lang: en\n  title: Projects\n  \n"]
-[1,"Output created: _site\\Projects.html\n\nPreparing to preview\n"]
-[1,"\r[1/1] contact.qmd\n"]
-[1,"\n"]
-[1,"Watching files for changes\nBrowse at http://localhost:7377/Projects.html\n"]
-[1,"GET: /Projects.html\n"]

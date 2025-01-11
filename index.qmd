@@ -1,9 +1,9 @@
 ---
-title: "Website"
+title: "About me"
 ---
 
 
 
-!Mohammadsobhan Esfandiar{.circle .float-right width=150}
+<img src="MyPicture.jpg" alt="My Picture" width="50%">
 
 Welcome to my personal website! I am Mohammadsobhan Esfandiar, a researcher with a passion for Human Robot Interaction, AR/VR in Robotics, Physical Interaction Design, and Social Psychology in HRI. I am currently pursuing an MSc in Research Methods of Psychological Science and a PhD in Social Touch in Physical Human Robot Interaction at the University of Glasgow.
