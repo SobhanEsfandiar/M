@@ -3,11 +3,11 @@
     "path": "D:/Glasgow/Website/Website/Contact.qmd",
     "project_path": "Contact.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "2434555936",
     "contents": "",
     "dirty": false,
     "created": 1736618014292.0,
-    "source_on_save": false,
+    "source_on_save": true,
     "relative_order": 4,
     "properties": {
         "tempName": "Untitled1",
@@ -17,11 +17,11 @@
         "scrollLine": "10"
     },
     "folds": "",
-    "lastKnownWriteTime": 1736619949,
+    "lastKnownWriteTime": 1736621470,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1736619949852,
+    "last_content_update": 1736621470339,
     "read_only": false,
     "read_only_alternatives": []
 }
