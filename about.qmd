@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "CV"
 ---
 
 # Mohammadsobhan Esfandiar
@@ -51,11 +51,11 @@ title: "About"
 - Researched the use of 3D scanners in an inspection climber robot.
 - Rendered a mobile robot for presentation in websites and brochures.
 
-**Fateh Aseman Sharif - Technical Project Manager** (2020 – 2022, Iran)
+**FAS - Technical Project Manager** (2020 – 2022, Iran)
 - Participated in creating a part number system for designed and produced parts.
 - Utilized rapid prototyping such as FDM, SLS, SLM, and vacuum casting in design and production processes.
 
-**Fateh Aseman Sharif - Mechatronic Engineer** (2018 – 2020, Iran)
+**FAS - Mechatronic Engineer** (2018 – 2020, Iran)
 - Designed and developed aerial imagery systems with 3 or 2 axis gimbal and passive vibration absorber.
 - Developed passive vibration absorbers with wire rope dampers and rubber dampers.
 - Analyzed and utilized various cooling methods in mechatronic systems design.
