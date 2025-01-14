@@ -1,8 +1,20 @@
 ---
 title: "CV"
 ---
+## Education
+**University of Glasgow** (2024 - now)
+- MSc in Research Methods of Psychological Science
+- PhD in Social Touch in Physical Human Robot Interaction
 
-# Mohammadsobhan Esfandiar
+**Politecnico di Milano** (2022 - 2024)
+- MSc in Design and Engineering (GPA=28.5/30) – Mark = 109/110
+- Ambassador in Smart Infrastructures
+- Thesis title: The Room: design of a space as a social being - a speculative approach
+
+**Sharif University of Technology** (2014 - 2018)
+- BSc in Mechanical Engineering (GPA=17.38/20)
+- Minor in Industrial Design
+- Thesis title: Design variables’ tolerances effects on modal characteristics of a Governor mechanism in dynamic equilibrium
 
 ## Research Interests
 - Human Robot Interaction
@@ -24,25 +36,12 @@ title: "CV"
 
 ## Skills
 **Expert:**
-- SOLIDWORKS, Inventor AutoCAD, Ansys mechanical, MATLAB, Word, Excel, PowerPoint, Granta Edu Pack, ARDUINO, 3D printing
+- SOLIDWORKS, Inventor AutoCAD, Ansys mechanical, MATLAB, ARDUINO, 3D printing
 
 **Intermediate:**
-- CATIA, Keyshot, Abaqus, Unity, C++ programming, Adobe Photoshop, Adobe Illustrator, Adobe InDesign
+- Data skill using R, CATIA, Keyshot, Abaqus, Unity, C++ programming, Adobe Photoshop, Adobe Illustrator, Adobe InDesign
 
-## Education
-**University of Glasgow** (2024 - now)
-- MSc in Research Methods of Psychological Science
-- PhD in Social Touch in Physical Human Robot Interaction
 
-**Politecnico di Milano** (2022 - 2024)
-- MSc in Design and Engineering (GPA=28.5/30) – Mark = 109/110
-- Ambassador in Smart Infrastructures
-- Thesis title: The Room: design of a space as a social being - a speculative approach
-
-**Sharif University of Technology** (2014 - 2018)
-- BSc in Mechanical Engineering (GPA=17.38/20)
-- Minor in Industrial Design
-- Thesis title: Design variables’ tolerances effects on modal characteristics of a Governor mechanism in dynamic equilibrium
 
 ## Work Experience
 **Nuzoo Robotics – Industrial Designer and Project Engineer** (Feb. 2024 – April 2024, Italy)

@@ -11,5 +11,12 @@ website:
         href: about.qmd
       - text: "Projects"
         href: Projects.qmd
+    right:
       - text: "Contact"
         href: contact.qmd
+format:
+  html:
+    theme: cosmo
+    toc: true
+    sidebar: false
+
