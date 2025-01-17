@@ -4,6 +4,118 @@
     "href": "index.html",
     "title": "About me",
     "section": "",
-    "text": "Welcome to my personal website!\nI am Mohammadsobhan Esfandiar, a researcher with a passion for Human Robot Interaction, AR/VR in Robotics, Physical Interaction Design, and Social Psychology in HRI. I am currently pursuing an MSc in Research Methods of Psychological Science at the University of Glasgow.\nI am Mohammadsobhan Esfandiar, a researcher with a passion for Human Robot Interaction, AR/VR in Robotics, Physical Interaction Design, and Social Psychology in HRI. I am currently pursuing an MSc in Research Methods of Psychological Science at the University of Glasgow.I am Mohammadsobhan Esfandiar, a researcher with a passion for Human Robot Interaction, AR/VR in Robotics, Physical Interaction Design, and Social Psychology in HRI. I am currently pursuing an MSc in Research Methods of Psychological Science at the University of Glasgow.I am Mohammadsobhan Esfandiar, a researcher with a passion for Human Robot Interaction, AR/VR in Robotics, Physical Interaction Design, and Social Psychology in HRI. I am currently pursuing an MSc in Research Methods of Psychological Science at the University of Glasgow."
+    "text": "Welcome to my personal website!\nI am Mohammadsobhan Esfandiar, a passionate researcher specializing in Human-Robot Interaction (HRI), with a particular focus on Augmented Reality (AR)/Virtual Reality (VR) in robotics, physical interaction design, and the role of social psychology in HRI. Currently, I am pursuing an MSc in Research Methods of Psychological Science at the University of Glasgow, where I am deepening my knowledge and skills in psychological research methodologies.\nMy academic journey will continue with a PhD focused on social touch in Human-Robot Interaction, exploring the ways in which touch influences the dynamics between humans and robots. My background in mechanical engineering and design has provided me with a strong foundation in technical craftsmanship, which complements my research pursuits.\nI enjoy investigating innovative and creative approaches within my field, always striving to push the boundaries of conventional research to discover new and impactful ways to integrate humans and robots."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "CV",
+    "section": "",
+    "text": "University of Glasgow (2024 - now)\n\nMSc in Research Methods of Psychological Science\nPhD in Social Touch in Physical Human Robot Interaction\n\nPolitecnico di Milano (2022 - 2024)\n\nMSc in Design and Engineering (GPA=28.5/30) – Mark = 109/110\nAmbassador in Smart Infrastructures\nThesis title: The Room: design of a space as a social being - a speculative approach\n\nSharif University of Technology (2014 - 2018)\n\nBSc in Mechanical Engineering (GPA=17.38/20)\nMinor in Industrial Design\nThesis title: Design variables’ tolerances effects on modal characteristics of a Governor mechanism in dynamic equilibrium"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "CV",
+    "section": "",
+    "text": "University of Glasgow (2024 - now)\n\nMSc in Research Methods of Psychological Science\nPhD in Social Touch in Physical Human Robot Interaction\n\nPolitecnico di Milano (2022 - 2024)\n\nMSc in Design and Engineering (GPA=28.5/30) – Mark = 109/110\nAmbassador in Smart Infrastructures\nThesis title: The Room: design of a space as a social being - a speculative approach\n\nSharif University of Technology (2014 - 2018)\n\nBSc in Mechanical Engineering (GPA=17.38/20)\nMinor in Industrial Design\nThesis title: Design variables’ tolerances effects on modal characteristics of a Governor mechanism in dynamic equilibrium"
+  },
+  {
+    "objectID": "about.html#research-interests",
+    "href": "about.html#research-interests",
+    "title": "CV",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nHuman Robot Interaction\nAR/VR in Robotics\nPhysical Interaction Design\nSocial Psychology in HRI"
+  },
+  {
+    "objectID": "about.html#awards-honors",
+    "href": "about.html#awards-honors",
+    "title": "CV",
+    "section": "Awards & Honors",
+    "text": "Awards & Honors\n\nFully funded SGSSS scholarship for a 1+3 MSc and PhD program at the University of Glasgow\nIYT (Invest your talent in Italy) Scholarship (2022-2024)\nGrant for studies from Iran’s National Elites Foundation (2014, 2016, 2017)\nRanked 231st in Iranian University Entrance Exam among 222,000 participants (2013)\nSilver medal of the 26th Iranian National Physics Olympiad (2012)"
+  },
+  {
+    "objectID": "about.html#languages",
+    "href": "about.html#languages",
+    "title": "CV",
+    "section": "Languages",
+    "text": "Languages\n\nEnglish (Fluent)\nItalian (Intermediate)\nPersian (Native)"
+  },
+  {
+    "objectID": "about.html#skills",
+    "href": "about.html#skills",
+    "title": "CV",
+    "section": "Skills",
+    "text": "Skills\nExpert:\nSOLIDWORKS, Inventor AutoCAD, Ansys mechanical, MATLAB, ARDUINO, 3D printing\nIntermediate:\nData skill using R, CATIA, Keyshot, Abaqus, Unity, C++ programming, Adobe Photoshop, Adobe Illustrator, Adobe InDesign"
+  },
+  {
+    "objectID": "about.html#work-experience",
+    "href": "about.html#work-experience",
+    "title": "CV",
+    "section": "Work Experience",
+    "text": "Work Experience\nNuzoo Robotics – Industrial Designer and Project Engineer (Feb. 2024 – April 2024, Italy)\n\nDesigned a new payload system for surveillance mobile robots using Inventor.\nAnalyzed available VR cameras in the market for use in mobile robots.\nResearched the use of 3D scanners in an inspection climber robot.\nRendered a mobile robot for presentation in websites and brochures.\n\nFAS - Technical Project Manager (2020 – 2022, Iran)\n\nParticipated in creating a part number system for designed and produced parts.\nUtilized rapid prototyping such as FDM, SLS, SLM, and vacuum casting in design and production processes.\n\nFAS - Mechatronic Engineer (2018 – 2020, Iran)\n\nDesigned and developed aerial imagery systems with 3 or 2 axis gimbal and passive vibration absorber.\nDeveloped passive vibration absorbers with wire rope dampers and rubber dampers.\nAnalyzed and utilized various cooling methods in mechatronic systems design.\nUtilized low-cogging BLDC motors for higher precision gimbals.\n\nNODET Schools - Physics Teacher (Sep. 2014 – July 2017)\n\nProvided comprehensive math and physics lessons to prepare high-school students for the Physics Olympiad."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "If you would like to get in touch, please feel free to reach out through any of the following methods:"
+  },
+  {
+    "objectID": "contact.html#email",
+    "href": "contact.html#email",
+    "title": "Contact",
+    "section": "Email",
+    "text": "Email\nYou can email me at: My personal Email or My University Email"
+  },
+  {
+    "objectID": "contact.html#social-media",
+    "href": "contact.html#social-media",
+    "title": "Contact",
+    "section": "Social Media",
+    "text": "Social Media\n\nLinkedIn"
+  },
+  {
+    "objectID": "contact.html#address",
+    "href": "contact.html#address",
+    "title": "Contact",
+    "section": "Address",
+    "text": "Address\nUniversity of Glasgow\nSchool of psychology and neuroscience\nR506, Level 5 , 58 Hillhead Street, Glasgow G12 8QB United Kingdom"
+  },
+  {
+    "objectID": "contact.html#phone",
+    "href": "contact.html#phone",
+    "title": "Contact",
+    "section": "Phone",
+    "text": "Phone\nYou can reach me by phone at: +44 7425210178"
+  },
+  {
+    "objectID": "Projects.html",
+    "href": "Projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "This project was conducted in collaboration with AirLab at Politecnico di Milano. You can read the full project description here.\n\nRobotics has long been associated with futuristic visions and speculative ideas. The concept of robots coexisting with humans in everyday environments has captured the imagination of both scholars and major tech corporations. Yet, despite this vision, the widespread use of social robots in daily life remains limited.\nTo understand the barriers preventing this integration, a more artistic and speculative approach can offer fresh insights by critically examining the current state of robotics. This study embraces a speculative methodology, focusing specifically on non-anthropomorphic social agents and their potential to create new opportunities for robots to become part of our social fabric.\nThe traditional approach to designing robots often relies on anthropomorphism or zoomorphism—designing robots to resemble humans or animals in order to make interactions more intuitive. However, what if robots don’t need to mimic humans or animals to be perceived as social beings? What if they require an entirely new identity to be seen as a legitimate participant in human society?\nThis project explores the possibility of a radically different design approach, one that moves beyond anthropomorphism and zoomorphism. We envision a robotic entity that stands apart from traditional human-like or animal-like forms, yet is still capable of forming meaningful social interactions with its environment and visitors. \nAdditionally, we explore the role of teleoperation in enhancing the intentionality and expressiveness of robots, making them more present and responsive. In this context, we also consider the potential for robots to act as avatars in a physical metaverse, offering a novel and immersive way for humans to interact within a new digital realm."
+  },
+  {
+    "objectID": "Projects.html#the-room",
+    "href": "Projects.html#the-room",
+    "title": "Projects",
+    "section": "",
+    "text": "This project was conducted in collaboration with AirLab at Politecnico di Milano. You can read the full project description here.\n\nRobotics has long been associated with futuristic visions and speculative ideas. The concept of robots coexisting with humans in everyday environments has captured the imagination of both scholars and major tech corporations. Yet, despite this vision, the widespread use of social robots in daily life remains limited.\nTo understand the barriers preventing this integration, a more artistic and speculative approach can offer fresh insights by critically examining the current state of robotics. This study embraces a speculative methodology, focusing specifically on non-anthropomorphic social agents and their potential to create new opportunities for robots to become part of our social fabric.\nThe traditional approach to designing robots often relies on anthropomorphism or zoomorphism—designing robots to resemble humans or animals in order to make interactions more intuitive. However, what if robots don’t need to mimic humans or animals to be perceived as social beings? What if they require an entirely new identity to be seen as a legitimate participant in human society?\nThis project explores the possibility of a radically different design approach, one that moves beyond anthropomorphism and zoomorphism. We envision a robotic entity that stands apart from traditional human-like or animal-like forms, yet is still capable of forming meaningful social interactions with its environment and visitors. \nAdditionally, we explore the role of teleoperation in enhancing the intentionality and expressiveness of robots, making them more present and responsive. In this context, we also consider the potential for robots to act as avatars in a physical metaverse, offering a novel and immersive way for humans to interact within a new digital realm."
+  },
+  {
+    "objectID": "Projects.html#yudo",
+    "href": "Projects.html#yudo",
+    "title": "Projects",
+    "section": "Yudo",
+    "text": "Yudo\nThis project was developed as part of the Social Robotics course at Politecnico di Milano.\n\nYudu is a socially interactive robot designed to capture attention in public spaces and encourage users to engage in a fun and beneficial stretching exercise routine.\nUniversity students often experience neck and shoulder pain after long hours of studying. Yudu comes to the rescue, offering a playful and relaxing experience that pairs perfectly with a coffee break. By combining physical activity with a touch of entertainment, Yudu promotes well-being in an enjoyable and engaging way. \nPlace Yudu near vending machines or in other public spaces, and watch as it actively attracts users to participate in a fun, interactive game. Whether it’s through its engaging personality or the creative design of its exercises, Yudu creates a unique moment of relaxation and connection in busy environments."
+  },
+  {
+    "objectID": "Projects.html#sleeptual",
+    "href": "Projects.html#sleeptual",
+    "title": "Projects",
+    "section": "Sleeptual",
+    "text": "Sleeptual\nThis project was developed as part of the Virtual and physical Prototyping course at Politecnico di Milano.\n\nSleeptual is an innovative Virtual Reality (VR) and mobile-based system designed to tackle insomnia by creating immersive and personalized sleep aid experiences. This project integrates relaxation techniques, environmental monitoring, and biofeedback to promote better sleep quality and relaxation.\n\nThe system connects a mobile app with a VR headset to deliver an all-encompassing sleep aid solution. Key features include:\n\nImmersive Natural Scenes: Users can explore calming VR environments, such as serene gardens, soothing rainforests, or snowy landscapes, enhanced by ambient sounds to create a deeply relaxing atmosphere.\nBreathing Exercises: Guided breathing sessions, complemented by visually engaging wave effects, help users achieve calmness and prepare their minds for rest.\nEnvironmental Monitoring: Real-time data on room temperature, humidity, and heart rate allow users to adjust their surroundings for optimal sleep conditions.\nPersonalized Insights: A mobile dashboard and journal provide tailored sleep suggestions, helping users understand and improve their sleep habits over time.\n\n\nSleeptual is designed primarily for college students, a demographic particularly vulnerable to insomnia due to academic stress and irregular schedules. With a focus on usability and relaxation, the project explores the potential of VR and biofeedback to transform sleep aid technology."
   }
 ]
